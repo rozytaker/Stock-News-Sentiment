@@ -106,3 +106,10 @@ XlsxWriter==1.2.9
 yfinance==0.1.54
 zipp==3.1.0
 https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-2.2.0/en_core_web_sm-2.2.0.tar.gz
+nltk
+pandas
+tqdm
+ujson
+regex
+idna
+mkl
